@@ -1,0 +1,6 @@
+transformers
+torch
+selenium
+pillow
+accelerate
+bitsandbytes
